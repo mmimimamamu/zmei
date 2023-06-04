@@ -1,0 +1,19 @@
+p {
+    background-color: rgb(255, 221, 236);
+}
+
+nav a{
+    margin: 7px;
+    align-content: right;
+}
+
+body{
+    background-color: lightgreen;
+}
+
+h1 img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+
+}
